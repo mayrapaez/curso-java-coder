@@ -1,0 +1,37 @@
+test de piel:
+
+# en general tu pie se siente:
+ 1)brillante y turgente
+ 2)elastica y suave
+ 3)opaca pero brillante en la zona T (frente, nariz y menton)
+ 4)aspera y sin brillo
+
+# tu piel se irrita o enrojece facilmente:
+ 1)siempre
+ 2)Solo con el calor excesivo
+ 3)pocas veces
+ 4)nunca
+
+# tu cara se siente brillosa..
+ 1)siempre
+ 2)a veces
+ 3)nunca
+
+#sientes la piel tirante y seca cuando:
+ 1)en todo momento
+ 2)cuando hace frio
+ 3)casi nunca
+
+
+# tenes puntos negros e inperfecciones
+ 1)muchas veces
+ 2)a veces
+ 3)no tengo.
+
+tipos de piel:
+
+normal
+mixta
+grasa
+seca
+
